@@ -12,7 +12,7 @@ class CategoryAdmin(admin.ModelAdmin):
 
 @admin.register(Ticker)
 class TickerAdmin(admin.ModelAdmin):
-    search_fields = ['id', 'name']
+    search_fields = ['id', 'name', 'code']
     list_display = ['id', 'name', 'code', 'category_id', 'is_active']
     list_display_links = ['id', 'name']
     list_per_page = 20

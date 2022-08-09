@@ -1,9 +1,12 @@
 from typing import List
 from ninja import NinjaAPI
+from datetime import date
 from django.shortcuts import get_list_or_404, get_object_or_404
 
 from app.models import Category, Ticker
 from app.schemas import *
+
+from app.mongodb import PriceTicker
 
 api = NinjaAPI()
 
@@ -84,3 +87,12 @@ def update_ticker(request, code: str, payload: TickerIn):
         setattr(ticker, attr, value)
     ticker.save()
     return {"success": True}
+
+
+# Price Ticker
+
+@api.get("/ticker/quote_ticker/{code}/{dt}", response=TickerOut, tags=["ticker-quote"])
+def get_quote_ticker_for_date(request, code: str, dt: date):
+    p = PriceTicker()
+    quote = p.get_price_ticker(code.upper(), date)
+    return quote
