@@ -1,0 +1,17 @@
+Nome	Código
+Ishares Bova Ci	BOVA11
+It Now Ibov	BOVV11
+Ishares Smal Ci	SMAL11
+Ishares S&P 500	IVVB11
+Pibb Ind Brasil 50	PIBB11
+It Now Spxi	SPXI11
+It Now Idiv	DIVO11
+It Now Ifnc Fundo de Indice	FIND11
+Caixaetfxbov	XBOV11
+BB Etf S&P	BBSD11
+It Now Imat	MATB11
+Ishares Ibrx Indice Brasil	BRAX11
+Ishares Ind Carb Ef	ECOO11
+It Now Ise Fundo de Indice	ISUS11
+It Now Igct Fundo de Indice	GOVE11
+Etf Brad Bov	BOVB11

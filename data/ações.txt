@@ -1,0 +1,549 @@
+Empresa	Classe	Código	Setor NAICS	Setor	Subsetor	Segmento	Segmento B3
+3r Petroleum	ON	RRRP3	Extração de petróleo e gás	Petróleo gás e biocombustíveis	Petróleo gás e biocombustíveis	Exploração refino e distribuição	Novo Mercado
+524 Particip	ON	QVQP3B	Empresa de eletricidade, gás e água	Outros	Outros	Outros	Balcão Organizado
+Abc Brasil	PN	ABCB4	Bancos	Financeiro	Intermediários financeiros	Bancos	Nível 2
+Aco Altona	ON	EALT3	Transformação de aço em produtos de aço	Bens industriais	Máquinas e equipamentos	Máq. e equip. industriais	Tradicional
+Aco Altona	PN	EALT4	Transformação de aço em produtos de aço	Bens industriais	Máquinas e equipamentos	Máq. e equip. industriais	Tradicional
+Aerisenergia	ON	AERI3	Indústria de motores, turbinas e transmissores de energia	Bens industriais	Máquinas e equipamentos	Máq. e equip. industriais	Novo Mercado
+AES Tiete E	ON	TIET3	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Nível 2
+AES Tiete E	PN	TIET4	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Nível 2
+AES Tiete E	UNT N2	TIET11	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Nível 2
+Afluente T	ON	AFLT3	Empresa de eletricidade, gás e água	Utilidade pública	Energia elétrica	Energia elétrica	Tradicional
+Alef S/A	ON	ALEF3B	Administração de empresas e empreendimentos	Outros	Outros	Outros	Balcão Organizado
+Alfa Consorc	ON	BRGE3	Administração de empresas e empreendimentos	Financeiro	Previdência e seguros	Seguradoras	Tradicional
+Alfa Consorc	PNA	BRGE5	Administração de empresas e empreendimentos	Financeiro	Previdência e seguros	Seguradoras	Tradicional
+Alfa Consorc	PNB	BRGE6	Administração de empresas e empreendimentos	Financeiro	Previdência e seguros	Seguradoras	Tradicional
+Alfa Consorc	PNC	BRGE7	Administração de empresas e empreendimentos	Financeiro	Previdência e seguros	Seguradoras	Tradicional
+Alfa Consorc	PND	BRGE8	Administração de empresas e empreendimentos	Financeiro	Previdência e seguros	Seguradoras	Tradicional
+Alfa Consorc	PNE	BRGE11	Administração de empresas e empreendimentos	Financeiro	Previdência e seguros	Seguradoras	Tradicional
+Alfa Consorc	PNF	BRGE12	Administração de empresas e empreendimentos	Financeiro	Previdência e seguros	Seguradoras	Tradicional
+Alfa Financ	ON	CRIV3	Bancos	Financeiro	Intermediários financeiros	Soc. crédito e financiamento	Tradicional
+Alfa Financ	PN	CRIV4	Bancos	Financeiro	Intermediários financeiros	Soc. crédito e financiamento	Tradicional
+Alfa Holding	ON	RPAD3	Administração de empresas e empreendimentos	Financeiro	Intermediários financeiros	Bancos	Tradicional
+Alfa Holding	PNA	RPAD5	Administração de empresas e empreendimentos	Financeiro	Intermediários financeiros	Bancos	Tradicional
+Alfa Holding	PNB	RPAD6	Administração de empresas e empreendimentos	Financeiro	Intermediários financeiros	Bancos	Tradicional
+Alfa Invest	ON	BRIV3	Bancos	Financeiro	Intermediários financeiros	Bancos	Tradicional
+Alfa Invest	PN	BRIV4	Bancos	Financeiro	Intermediários financeiros	Bancos	Tradicional
+Alianscsonae	ON	ALSO3	Locadora de imóveis	Financeiro	Exploração de imóveis	Exploração de imóveis	Novo Mercado
+Aliperti	ON	APTI3	Indústria de molas e produtos de arame	Consumo não cíclico	Agropecuária	Agricultura	Tradicional
+Aliperti	PN	APTI4	Indústria de molas e produtos de arame	Consumo não cíclico	Agropecuária	Agricultura	Tradicional
+All Norte	ON	FRRN3B	Transporte ferroviário	Bens industriais	Transporte	Transporte ferroviário	Balcão Organizado
+All Norte	PNA	FRRN5B	Transporte ferroviário	Bens industriais	Transporte	Transporte ferroviário	Balcão Organizado
+All Norte	PNB	FRRN6B	Transporte ferroviário	Bens industriais	Transporte	Transporte ferroviário	Balcão Organizado
+Alliar	ON	AALR3	Laboratório de exames médicos	Saúde	Serviços médico-hospitalares análises e diagnósticos	Serviços médico-hospitalares análises e diagnósticos	Novo Mercado
+Alpargatas	ON	ALPA3	Indústria de calçados	Consumo cíclico	Tecidos vestuário e calçados	Calçados	Nível 1
+Alpargatas	PN	ALPA4	Indústria de calçados	Consumo cíclico	Tecidos vestuário e calçados	Calçados	Nível 1
+Alper S.A.	ON	APER3	Corretora de seguros	Financeiro	Previdência e seguros	Corretoras de seguros	Novo Mercado
+Alphaville	ON	AVLL3	Construção de edifícios residenciais	Consumo cíclico	Construção civil	Incorporações	Novo Mercado
+Alupar	ON	ALUP3	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Nível 2
+Alupar	PN	ALUP4	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Nível 2
+Alupar	UNT N2	ALUP11	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Nível 2
+Amazonia	ON	BAZA3	Bancos	Financeiro	Intermediários financeiros	Bancos	Tradicional
+Ambev S/A	ON	ABEV3	Indústria de bebidas	Consumo não cíclico	Bebidas	Cervejas e refrigerantes	Tradicional
+Ambipar	ON	AMBP3	Água, esgoto e outros sistemas	Utilidade pública	Água e saneamento	Água e saneamento	Novo Mercado
+Ampla Energ	ON	CBEE3	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Tradicional
+Anima	ON	ANIM3	Escola de ensino superior	Consumo cíclico	Diversos	Serviços educacionais	Novo Mercado
+Arezzo Co	ON	ARZZ3	Indústria de calçados	Consumo cíclico	Comércio	Tecidos vestuário e calçados	Novo Mercado
+Atmasa	ON	ATMP3	Serviços de apoio a empresas	Bens industriais	Serviços diversos	Serviços diversos	Novo Mercado
+Atompar	ON	ATOM3	Telecomunicações	Outros	Outros	Outros	Tradicional
+Aura 360	ON	AURA33	Mineração de metais	Materiais básicos	Mineração	Minerais metálicos	BDR nível 3
+Azevedo	ON	AZEV3	Outras construções pesadas e de engenharia civil	Bens industriais	Construção e engenharia	Construção pesada	Tradicional
+Azevedo	PN	AZEV4	Outras construções pesadas e de engenharia civil	Bens industriais	Construção e engenharia	Construção pesada	Tradicional
+Azul S.A.	PN	AZUL4	Transporte aéreo regular	Bens industriais	Transporte	Transporte aéreo	Nível 2
+B2W Digital	ON	BTOW3	Vendas por correio ou meio eletrônico	Consumo cíclico	Comércio	Produtos diversos	Novo Mercado
+B3	ON	B3SA3	Bolsa de valores e commodities	Financeiro	Serviços financeiros diversos	Serviços financeiros diversos	Novo Mercado
+Bahema	ON	BAHI3	Administração de empresas e empreendimentos	Consumo cíclico	Diversos	Serviços educacionais	Bovespa Mais
+Banco BMG	PN	BMGB4	Bancos	Financeiro	Intermediários financeiros	Bancos	Nível 1
+Banco Inter	ON	BIDI3	Bancos	Financeiro	Intermediários financeiros	Bancos	Nível 2
+Banco Inter	PN	BIDI4	Bancos	Financeiro	Intermediários financeiros	Bancos	Nível 2
+Banco Inter	UNT	BIDI11	Bancos	Financeiro	Intermediários financeiros	Bancos	Nível 2
+Banco Pan	PN	BPAN4	Bancos	Financeiro	Intermediários financeiros	Bancos	Nível 1
+Banese	ON	BGIP3	Bancos	Financeiro	Intermediários financeiros	Bancos	Tradicional
+Banese	PN	BGIP4	Bancos	Financeiro	Intermediários financeiros	Bancos	Tradicional
+Banestes	ON	BEES3	Bancos	Financeiro	Intermediários financeiros	Bancos	Tradicional
+Banestes	PN	BEES4	Bancos	Financeiro	Intermediários financeiros	Bancos	Tradicional
+Banpara	ON	BPAR3	Bancos	Financeiro	Intermediários financeiros	Bancos	Tradicional
+Banrisul	ON	BRSR3	Bancos	Financeiro	Intermediários financeiros	Bancos	Nível 1
+Banrisul	PNA	BRSR5	Bancos	Financeiro	Intermediários financeiros	Bancos	Nível 1
+Banrisul	PNB	BRSR6	Bancos	Financeiro	Intermediários financeiros	Bancos	Nível 1
+Bardella	ON	BDLL3	Industria de máquinas agrícolas, de construção e mineração	Bens industriais	Máquinas e equipamentos	Máq. e equip. industriais	Tradicional
+Bardella	PN	BDLL4	Industria de máquinas agrícolas, de construção e mineração	Bens industriais	Máquinas e equipamentos	Máq. e equip. industriais	Tradicional
+Battistella	ON	BTTL3	Concessionárias de outros veículos motorizados	Bens industriais	Comércio	Material de transporte	Tradicional
+Baumer	ON	BALM3	Indústria de equipamentos e materiais para uso médico	Saúde	Equipamentos	Equipamentos	Tradicional
+Baumer	PN	BALM4	Indústria de equipamentos e materiais para uso médico	Saúde	Equipamentos	Equipamentos	Tradicional
+Bbmlogistica	ON	BBML3	Transporte rodoviário	Bens industriais	Serviços diversos	Serviços diversos	Bovespa Mais
+BBSeguridade	ON	BBSE3	Seguradora	Financeiro	Previdência e seguros	Seguradoras	Novo Mercado
+Bemobi Tech	ON	BMOB3	Editoras de software	Tecnologia da informação	Programas e serviços	Programas e serviços	Novo Mercado
+Betapart	ON	BETP3B	Atividades relacionadas à intermediação de crédito	Outros	Outros	Outros	Balcão Organizado
+Bic Monark	ON	BMKS3	Indústria de outros equipamentos de transporte	Consumo cíclico	Viagens e lazer	Bicicletas	Tradicional
+Biomm	ON	BIOM3	Pesquisa científica	Saúde	Medicamentos e outros produtos	Medicamentos e outros produtos	Bovespa Mais
+Biosev	ON	BSEV3	Outras outras indústrias	Consumo não cíclico	Alimentos processados	Açúcar e álcool	Novo Mercado
+Bk Brasil	ON	BKBR3	Restaurantes e outros lugares para comer	Consumo cíclico	Hotéis e restaurantes	Restaurante e similares	Novo Mercado
+Boa Vista	ON	BOAS3	Outros serviços de Informação	Financeiro	Serviços financeiros diversos	Serviços financeiros diversos	Novo Mercado
+Bombril	ON	BOBR3	Indústria de artigos de limpeza	Consumo não cíclico	Produtos de uso pessoal e de limpeza	Produtos de limpeza	Tradicional
+Bombril	PN	BOBR4	Indústria de artigos de limpeza	Consumo não cíclico	Produtos de uso pessoal e de limpeza	Produtos de limpeza	Tradicional
+BR Brokers	ON	BBRK3	Atividades relacionadas a imóveis	Financeiro	Exploração de imóveis	Intermediação imobiliária	Novo Mercado
+BR Malls Par	ON	BRML3	Locadora de imóveis	Financeiro	Exploração de imóveis	Exploração de imóveis	Novo Mercado
+BR Propert	ON	BRPR3	Locadora de imóveis	Financeiro	Exploração de imóveis	Exploração de imóveis	Novo Mercado
+Bradesco	ON	BBDC3	Bancos	Financeiro	Intermediários financeiros	Bancos	Nível 1
+Bradesco	PN	BBDC4	Bancos	Financeiro	Intermediários financeiros	Bancos	Nível 1
+Bradespar	ON	BRAP3	Administração de empresas e empreendimentos	Materiais básicos	Mineração	Minerais metálicos	Nível 1
+Bradespar	PN	BRAP4	Administração de empresas e empreendimentos	Materiais básicos	Mineração	Minerais metálicos	Nível 1
+Brasil	ON	BBAS3	Bancos	Financeiro	Intermediários financeiros	Bancos	Novo Mercado
+Brasilagro	ON	AGRO3	Agricultura	Consumo não cíclico	Agropecuária	Agricultura	Novo Mercado
+Braskem	ON	BRKM3	Indústria química	Materiais básicos	Químicos	Petroquímicos	Nível 1
+Braskem	PNA	BRKM5	Indústria química	Materiais básicos	Químicos	Petroquímicos	Nível 1
+Braskem	PNB	BRKM6	Indústria química	Materiais básicos	Químicos	Petroquímicos	Nível 1
+BRB Banco	ON	BSLI3	Bancos	Financeiro	Intermediários financeiros	Bancos	Tradicional
+BRB Banco	PN	BSLI4	Bancos	Financeiro	Intermediários financeiros	Bancos	Tradicional
+BRF SA	ON	BRFS3	Abatedouros	Consumo não cíclico	Alimentos processados	Carnes e derivados	Novo Mercado
+Brq	ON	BRQB3	Editoras de software	Tecnologia da informação	Programas e serviços	Programas e serviços	Bovespa Mais
+Btgp Banco	ON	BPAC3	Bancos	Financeiro	Intermediários financeiros	Bancos	Nível 2
+Btgp Banco	PNA	BPAC5	Bancos	Financeiro	Intermediários financeiros	Bancos	Nível 2
+Btgp Banco	UNT	BPAC11	Bancos	Financeiro	Intermediários financeiros	Bancos	Nível 2
+Cabinda Part	ON	CABI3B	Administração de empresas e empreendimentos	Outros	Outros	Outros	Balcão Organizado
+Caconde Part	ON	CACO3B	Administração de empresas e empreendimentos	Outros	Outros	Outros	Balcão Organizado
+Cambuci	ON	CAMB3	Indústria de calçados	Consumo cíclico	Tecidos vestuário e calçados	Calçados	Tradicional
+Camil	ON	CAML3	Outras indústrias de alimentos	Consumo não cíclico	Alimentos processados	Alimentos diversos	Novo Mercado
+Carrefour BR	ON	CRFB3	Loja de departamentos	Consumo não cíclico	Comércio e distribuição	Alimentos	Novo Mercado
+Casan	ON	CASN3	Água, esgoto e outros sistemas	Utilidade pública	Água e saneamento	Água e saneamento	Tradicional
+Casan	PN	CASN4	Água, esgoto e outros sistemas	Utilidade pública	Água e saneamento	Água e saneamento	Tradicional
+CCR SA	ON	CCRO3	Atividades auxiliares ao transporte rodoviário	Bens industriais	Transporte	Exploração de rodovias	Novo Mercado
+Cea Modas	ON	CEAB3	Loja de roupas	Consumo cíclico	Comércio	Tecidos vestuário e calçados	Novo Mercado
+Ceb	ON	CEBR3	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Tradicional
+Ceb	PNA	CEBR5	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Tradicional
+Ceb	PNB	CEBR6	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Tradicional
+Cedro	ON	CEDO3	Tecelagens	Consumo cíclico	Tecidos vestuário e calçados	Fios e tecidos	Nível 1
+Cedro	PN	CEDO4	Tecelagens	Consumo cíclico	Tecidos vestuário e calçados	Fios e tecidos	Nível 1
+Ceee-D	ON	CEED3	Empresa de eletricidade, gás e água	Utilidade pública	Energia elétrica	Energia elétrica	Nível 1
+Ceee-D	PN	CEED4	Empresa de eletricidade, gás e água	Utilidade pública	Energia elétrica	Energia elétrica	Nível 1
+Ceee-Gt	ON	EEEL3	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Nível 1
+Ceee-Gt	PN	EEEL4	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Nível 1
+Ceg	ON	CEGR3	Distribuição de gás natural	Utilidade pública	Gás	Gás	Tradicional
+Celesc	ON	CLSC3	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Nível 2
+Celesc	PN	CLSC4	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Nível 2
+Celgpar	ON	GPAR3	Empresa de eletricidade, gás e água	Utilidade pública	Energia elétrica	Energia elétrica	Tradicional
+Celpe	ON	CEPE3	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Tradicional
+Celpe	PNA	CEPE5	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Tradicional
+Celpe	PNB	CEPE6	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Tradicional
+Cemepe	ON	MAPT3	Administração de empresas e empreendimentos	Outros	Outros	Outros	Tradicional
+Cemepe	PN	MAPT4	Administração de empresas e empreendimentos	Outros	Outros	Outros	Tradicional
+Cemig	ON	CMIG3	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Nível 1
+Cemig	PN	CMIG4	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Nível 1
+Centauro	ON	CNTO3	Loja de artigos esportivos e instrumentos musicais	Consumo cíclico	Comércio	Produtos diversos	Novo Mercado
+Cesp	ON	CESP3	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Nível 1
+Cesp	PNA	CESP5	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Nível 1
+Cesp	PNB	CESP6	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Nível 1
+Cia Hering	ON	HGTX3	Indústria de roupas de malha	Consumo cíclico	Tecidos vestuário e calçados	Vestuário	Novo Mercado
+Cielo	ON	CIEL3	Serviços de processamento de dados, hospedagem e outros serviços relacionados	Financeiro	Serviços financeiros diversos	Serviços financeiros diversos	Novo Mercado
+Cims	ON	CMSA3	Administração de empresas e empreendimentos	Outros	Outros	Outros	Tradicional
+Cims	PN	CMSA4	Administração de empresas e empreendimentos	Outros	Outros	Outros	Tradicional
+Cinesystem	ON	CNSY3	Indústria cinematográfica	Comunicações	Mídia	Produção e difusão de filmes e programas	Bovespa Mais
+Coelba	ON	CEEB3	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Tradicional
+Coelba	PNA	CEEB5	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Tradicional
+Coelba	PNB	CEEB6	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Tradicional
+Coelce	ON	COCE3	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Tradicional
+Coelce	PNA	COCE5	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Tradicional
+Coelce	PNB	COCE6	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Tradicional
+Cogna ON	ON	COGN3	Escola de ensino superior	Consumo cíclico	Diversos	Serviços educacionais	Novo Mercado
+Comgas	ON	CGAS3	Distribuição de gás natural	Utilidade pública	Gás	Gás	Tradicional
+Comgas	PNA	CGAS5	Distribuição de gás natural	Utilidade pública	Gás	Gás	Tradicional
+Conc Rio Ter	ON	CRTE3B	Atividades auxiliares ao transporte rodoviário	Bens industriais	Transporte	Exploração de rodovias	Balcão Organizado
+Conc Rio Ter	PNA	CRTE5B	Atividades auxiliares ao transporte rodoviário	Bens industriais	Transporte	Exploração de rodovias	Balcão Organizado
+Const A Lind	ON	CALI3	Construção de edifícios residenciais	Consumo cíclico	Construção civil	Incorporações	Tradicional
+Const A Lind	PN	CALI4	Construção de edifícios residenciais	Consumo cíclico	Construção civil	Incorporações	Tradicional
+Copasa	ON	CSMG3	Água, esgoto e outros sistemas	Utilidade pública	Água e saneamento	Água e saneamento	Novo Mercado
+Copel	ON	CPLE3	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Nível 1
+Copel	PNA	CPLE5	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Nível 1
+Copel	PNB	CPLE6	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Nível 1
+Cor Ribeiro	ON	CORR3	Administração de empresas e empreendimentos	Financeiro	Exploração de imóveis	Exploração de imóveis	Tradicional
+Cor Ribeiro	PN	CORR4	Administração de empresas e empreendimentos	Financeiro	Exploração de imóveis	Exploração de imóveis	Tradicional
+Cosan	ON	CSAN3	Comércio atacadista de petróleo e produtos de petróleo	Petróleo gás e biocombustíveis	Petróleo gás e biocombustíveis	Exploração refino e distribuição	Novo Mercado
+Cosan Log	ON	RLOG3	Transporte ferroviário	Bens industriais	Transporte	Transporte ferroviário	Novo Mercado
+Cosern	ON	CSRN3	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Tradicional
+Cosern	PNA	CSRN5	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Tradicional
+Cosern	PNB	CSRN6	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Tradicional
+Coteminas	ON	CTNM3	Indústria de roupas de tecido	Consumo cíclico	Tecidos vestuário e calçados	Fios e tecidos	Tradicional
+Coteminas	PN	CTNM4	Indústria de roupas de tecido	Consumo cíclico	Tecidos vestuário e calçados	Fios e tecidos	Tradicional
+CPFL Energia	ON	CPFE3	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Novo Mercado
+Cr2	ON	CRDE3	Construção de edifícios residenciais	Consumo cíclico	Construção civil	Incorporações	Tradicional
+Cristal	ON	CRPG3	Indústria química	Materiais básicos	Químicos	Químicos diversos	Tradicional
+Cristal	PNA	CRPG5	Indústria química	Materiais básicos	Químicos	Químicos diversos	Tradicional
+Cristal	PNB	CRPG6	Indústria química	Materiais básicos	Químicos	Químicos diversos	Tradicional
+Cruzeiro Edu	ON	CSED3	Escola de ensino superior	Consumo cíclico	Diversos	Serviços educacionais	Novo Mercado
+Csn Mineraca	ON	CMIN3	Mineração de metais	Materiais básicos	Mineração	Minerais metálicos	Nível 2
+Csu Cardsyst	ON	CARD3	Serviços de apoio a empresas	Bens industriais	Serviços diversos	Serviços diversos	Novo Mercado
+Ctc S.A.	ON	CTCA3	Agricultura	Consumo não cíclico	Agropecuária	Agricultura	Bovespa Mais
+Cury S/A	ON	CURY3	Construção de edifícios residenciais	Consumo cíclico	Construção civil	Incorporações	Novo Mercado
+Cvc Brasil	ON	CVCB3	Transporte turístico	Consumo cíclico	Viagens e lazer	Viagens e turismo	Novo Mercado
+Cyre Com-Ccp	ON	CCPR3	Locadora de imóveis	Financeiro	Exploração de imóveis	Exploração de imóveis	Novo Mercado
+Cyrela Realt	ON	CYRE3	Construção de edifícios residenciais	Consumo cíclico	Construção civil	Incorporações	Novo Mercado
+D1000vfarma	ON	DMVF3	Loja de artigos para saúde e cuidados pessoais	Saúde	Comércio e distribuição	Medicamentos e outros produtos	Novo Mercado
+Dasa	ON	DASA3	Laboratório de exames médicos	Saúde	Serviços médico-hospitalares análises e diagnósticos	Serviços médico-hospitalares análises e diagnósticos	Tradicional
+Dimed	ON	PNVL3	Loja de artigos para saúde e cuidados pessoais	Saúde	Comércio e distribuição	Medicamentos e outros produtos	Nível 2
+Dimed	PN	PNVL4	Loja de artigos para saúde e cuidados pessoais	Saúde	Comércio e distribuição	Medicamentos e outros produtos	Nível 2
+Direcional	ON	DIRR3	Construção de edifícios residenciais	Consumo cíclico	Construção civil	Incorporações	Novo Mercado
+Dohler	ON	DOHL3	Indústria de roupas de tecido	Consumo cíclico	Tecidos vestuário e calçados	Fios e tecidos	Tradicional
+Dohler	PN	DOHL4	Indústria de roupas de tecido	Consumo cíclico	Tecidos vestuário e calçados	Fios e tecidos	Tradicional
+Dommo	ON	DMMO3	Extração de petróleo e gás	Petróleo gás e biocombustíveis	Petróleo gás e biocombustíveis	Exploração refino e distribuição	Tradicional
+Dtcom Direct	ON	DTCY3	Outros tipos de escolas	Bens industriais	Serviços diversos	Serviços diversos	Tradicional
+Dtcom Direct	PN	DTCY4	Outros tipos de escolas	Bens industriais	Serviços diversos	Serviços diversos	Tradicional
+Duratex	ON	DTEX3	Indústria de móveis e afins	Materiais básicos	Madeira e papel	Madeira	Novo Mercado
+Ecorodovias	ON	ECOR3	Atividades auxiliares ao transporte rodoviário	Bens industriais	Transporte	Exploração de rodovias	Novo Mercado
+Elektro	ON	EKTR3	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Tradicional
+Elektro	PN	EKTR4	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Tradicional
+Eletrobras	ON	ELET3	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Nível 1
+Eletrobras	PNA	ELET5	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Nível 1
+Eletrobras	PNB	ELET6	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Nível 1
+Eletromidia	ON	ELMD3	Administração de empresas e empreendimentos	Comunicações	Mídia	Publicidade e propaganda	Novo Mercado
+Eletropar	ON	LIPR3	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Tradicional
+Emae	ON	EMAE3	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Tradicional
+Emae	PN	EMAE4	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Tradicional
+Embraer	ON	EMBR3	Indústria de equipamentos aeroespacias	Bens industriais	Material de transporte	Material aeronáutico e de defesa	Novo Mercado
+Enauta Part	ON	ENAT3	Extração de petróleo e gás	Petróleo gás e biocombustíveis	Petróleo gás e biocombustíveis	Exploração refino e distribuição	Novo Mercado
+Encorpar	ON	ECPR3	Indústria de fios	Consumo cíclico	Tecidos vestuário e calçados	Fios e tecidos	Tradicional
+Encorpar	PN	ECPR4	Indústria de fios	Consumo cíclico	Tecidos vestuário e calçados	Fios e tecidos	Tradicional
+Energias BR	ON	ENBR3	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Novo Mercado
+Energisa	ON	ENGI3	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Nível 2
+Energisa	PN	ENGI4	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Nível 2
+Energisa	UNT N2	ENGI11	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Nível 2
+Energisa Mt	ON	ENMT3	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Tradicional
+Energisa Mt	PN	ENMT4	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Tradicional
+Eneva	ON	ENEV3	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Novo Mercado
+Engie Brasil	ON	EGIE3	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Novo Mercado
+Enjoei	ON	ENJU3	Vendas por correio ou meio eletrônico	Tecnologia da informação	Programas e serviços	Programas e serviços	Novo Mercado
+Eqtl Maranhao	ON	EQMA3B	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Balcão Organizado
+Eqtl Maranhao	PNA	EQMA5B	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Balcão Organizado
+Eqtl Maranhao	PNB	EQMA6B	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Balcão Organizado
+Eqtl Para	ON	EQPA3	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Tradicional
+Eqtl Para	PNA	EQPA5	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Tradicional
+Eqtl Para	PNB	EQPA6	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Tradicional
+Eqtl Para	PNC	EQPA7	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Tradicional
+Equatorial	ON	EQTL3	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Novo Mercado
+Espacolaser	ON	ESPA3	Outros serviços ambulatoriais de saúde	Consumo cíclico	Comércio	Produtos diversos	Novo Mercado
+Estapar	ON	ALPK3	Administração de empresas e empreendimentos	Bens industriais	Serviços diversos	Serviços diversos	Novo Mercado
+Estrela	ON	ESTR3	Outras outras indústrias	Consumo cíclico	Viagens e lazer	Brinquedos e jogos	Tradicional
+Estrela	PN	ESTR4	Outras outras indústrias	Consumo cíclico	Viagens e lazer	Brinquedos e jogos	Tradicional
+Eternit	ON	ETER3	Indústria de outros produtos de minerais não metálicos	Bens industriais	Construção e engenharia	Produtos para construção	Novo Mercado
+Eucatex	ON	EUCA3	Indústria de produtos de madeira compensada e afins	Materiais básicos	Madeira e papel	Madeira	Nível 1
+Eucatex	PN	EUCA4	Indústria de produtos de madeira compensada e afins	Materiais básicos	Madeira e papel	Madeira	Nível 1
+Even	ON	EVEN3	Construção de edifícios residenciais	Consumo cíclico	Construção civil	Incorporações	Novo Mercado
+Excelsior	ON	BAUH3	Outras indústrias de alimentos	Consumo não cíclico	Alimentos processados	Carnes e derivados	Tradicional
+Excelsior	PN	BAUH4	Outras indústrias de alimentos	Consumo não cíclico	Alimentos processados	Carnes e derivados	Tradicional
+Eztec	ON	EZTC3	Construção de edifícios residenciais	Consumo cíclico	Construção civil	Incorporações	Novo Mercado
+Fer Heringer	ON	FHER3	Indústria de fertilizantes e pesticidas	Materiais básicos	Químicos	Fertilizantes e defensivos	Novo Mercado
+Ferbasa	ON	FESA3	Fundição	Materiais básicos	Siderurgia e metalurgia	Siderurgia	Nível 1
+Ferbasa	PN	FESA4	Fundição	Materiais básicos	Siderurgia e metalurgia	Siderurgia	Nível 1
+Finansinos	ON	FNCN3	Bancos	Financeiro	Intermediários financeiros	Soc. crédito e financiamento	Tradicional
+Fleury	ON	FLRY3	Laboratório de exames médicos	Saúde	Serviços médico-hospitalares análises e diagnósticos	Serviços médico-hospitalares análises e diagnósticos	Novo Mercado
+Flex S/A	ON	FLEX3	Outros serviços de apoio	Bens industriais	Serviços diversos	Serviços diversos	Bovespa Mais
+Focus ON	ON	POWE3	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Novo Mercado
+Fras-Le	ON	FRAS3	Indústria de autopeças	Bens industriais	Material de transporte	Material rodoviário	Nível 1
+Gafisa	ON	GFSA3	Construção de edifícios residenciais	Consumo cíclico	Construção civil	Incorporações	Novo Mercado
+Gama Part	ON	OPGM3B	Administração de empresas e empreendimentos	Outros	Outros	Outros	Balcão Organizado
+Generalshopp	ON	GSHP3	Locadora de imóveis	Financeiro	Exploração de imóveis	Exploração de imóveis	Novo Mercado
+Ger Paranap	ON	GEPA3	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Tradicional
+Ger Paranap	PN	GEPA4	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Tradicional
+Gerdau	ON	GGBR3	Transformação de aço em produtos de aço	Materiais básicos	Siderurgia e metalurgia	Siderurgia	Nível 1
+Gerdau	PN	GGBR4	Transformação de aço em produtos de aço	Materiais básicos	Siderurgia e metalurgia	Siderurgia	Nível 1
+Gerdau Met	ON	GOAU3	Transformação de aço em produtos de aço	Materiais básicos	Siderurgia e metalurgia	Siderurgia	Nível 1
+Gerdau Met	PN	GOAU4	Transformação de aço em produtos de aço	Materiais básicos	Siderurgia e metalurgia	Siderurgia	Nível 1
+Gol	PN	GOLL4	Transporte aéreo regular	Bens industriais	Transporte	Transporte aéreo	Nível 2
+GP Invest	A	GPIV33	Administração de empresas e empreendimentos	Financeiro	Serviços financeiros diversos	Gestão de recursos e investimentos	BDR nível 3
+GPC Part	ON	GPCP3	Administração de empresas e empreendimentos	Materiais básicos	Químicos	Petroquímicos	Tradicional
+GPC Part	PN	GPCP4	Administração de empresas e empreendimentos	Materiais básicos	Químicos	Petroquímicos	Tradicional
+Grazziotin	ON	CGRA3	Loja de roupas	Consumo cíclico	Comércio	Tecidos vestuário e calçados	Tradicional
+Grazziotin	PN	CGRA4	Loja de roupas	Consumo cíclico	Comércio	Tecidos vestuário e calçados	Tradicional
+Grendene	ON	GRND3	Indústria de calçados	Consumo cíclico	Tecidos vestuário e calçados	Calçados	Novo Mercado
+Grupo Mateus	ON	GMAT3	Loja de departamentos	Consumo não cíclico	Comércio e distribuição	Alimentos	Novo Mercado
+Grupo Natura	ON	NTCO3	Comércio atacadista de bens não duráveis variados	Consumo não cíclico	Produtos de uso pessoal e de limpeza	Produtos de uso pessoal	Novo Mercado
+Grupo Soma	ON	SOMA3	Comércio atacadista de roupas	Consumo cíclico	Comércio	Tecidos vestuário e calçados	Novo Mercado
+Guararapes	ON	GUAR3	Indústria de roupas de tecido	Consumo cíclico	Comércio	Tecidos vestuário e calçados	Tradicional
+Habitasul	ON	HBTS3	Administração de empresas e empreendimentos	Financeiro	Exploração de imóveis	Exploração de imóveis	Tradicional
+Habitasul	PNA	HBTS5	Administração de empresas e empreendimentos	Financeiro	Exploração de imóveis	Exploração de imóveis	Tradicional
+Habitasul	PNB	HBTS6	Administração de empresas e empreendimentos	Financeiro	Exploração de imóveis	Exploração de imóveis	Tradicional
+Haga S/A	ON	HAGA3	Indústria de ferragens	Bens industriais	Construção e engenharia	Produtos para construção	Tradicional
+Haga S/A	PN	HAGA4	Indústria de ferragens	Bens industriais	Construção e engenharia	Produtos para construção	Tradicional
+Hapvida	ON	HAPV3	Serviços ambulatoriais de saúde	Saúde	Serviços médico-hospitalares análises e diagnósticos	Serviços médico-hospitalares análises e diagnósticos	Novo Mercado
+Hbr Realty	ON	HBRE3	Construção de edifícios residenciais	Financeiro	Exploração de imóveis	Exploração de imóveis	Novo Mercado
+Helbor	ON	HBOR3	Construção de edifícios residenciais	Consumo cíclico	Construção civil	Incorporações	Novo Mercado
+Hercules	ON	HETA3	Indústria de ferramentas de metal não motorizadas e cutelaria	Consumo cíclico	Utilidades domésticas	Utensílios domésticos	Tradicional
+Hercules	PN	HETA4	Indústria de ferramentas de metal não motorizadas e cutelaria	Consumo cíclico	Utilidades domésticas	Utensílios domésticos	Tradicional
+Hidrovias	ON	HBSA3	Transporte fluvial	Bens industriais	Transporte	Transporte hidroviário	Novo Mercado
+Hoteis Othon	ON	HOOT3	Hotel, motel ou similar	Consumo cíclico	Hotéis e restaurantes	Hotelaria	Tradicional
+Hoteis Othon	PN	HOOT4	Hotel, motel ou similar	Consumo cíclico	Hotéis e restaurantes	Hotelaria	Tradicional
+Hypera	ON	HYPE3	Outras outras indústrias	Saúde	Comércio e distribuição	Medicamentos e outros produtos	Novo Mercado
+IGB S/A	ON	IGBR3	Indústria de equipamentos de áudio e vídeo	Financeiro	Exploração de imóveis	Exploração de imóveis	Tradicional
+Igua SA	ON	IGSN3	Água, esgoto e outros sistemas	Utilidade pública	Água e saneamento	Água e saneamento	Bovespa Mais
+Iguatemi	ON	IGTA3	Locadora de imóveis	Financeiro	Exploração de imóveis	Exploração de imóveis	Novo Mercado
+Ihpardini	ON	PARD3	Laboratório de exames médicos	Saúde	Serviços médico-hospitalares análises e diagnósticos	Serviços médico-hospitalares análises e diagnósticos	Novo Mercado
+Imc S/A	ON	MEAL3	Loja de comida e bebida	Consumo cíclico	Hotéis e restaurantes	Restaurante e similares	Novo Mercado
+Ind Cataguas	ON	CATA3	Tecelagens	Consumo cíclico	Tecidos vestuário e calçados	Fios e tecidos	Tradicional
+Ind Cataguas	PN	CATA4	Tecelagens	Consumo cíclico	Tecidos vestuário e calçados	Fios e tecidos	Tradicional
+Inds Romi	ON	ROMI3	Indústria de máquinas industriais	Bens industriais	Máquinas e equipamentos	Máq. e equip. industriais	Novo Mercado
+Inepar	ON	INEP3	Outras outras indústrias	Bens industriais	Máquinas e equipamentos	Máq. e equip. industriais	Tradicional
+Inepar	PN	INEP4	Outras outras indústrias	Bens industriais	Máquinas e equipamentos	Máq. e equip. industriais	Tradicional
+Intelbras	ON	INTB3	Indústria de equipamentos de comunicação	Tecnologia da informação	Computadores e equipamentos	Computadores e equipamentos	Novo Mercado
+Inter SA	ON	INNT3	Construção de edifícios residenciais	Consumo cíclico	Construção civil	Incorporações	Bovespa Mais
+Intermedica	ON	GNDI3	Laboratório de exames médicos	Saúde	Serviços médico-hospitalares análises e diagnósticos	Serviços médico-hospitalares análises e diagnósticos	Novo Mercado
+Invepar	ON	IVPR3B	Atividades auxiliares ao transporte rodoviário	Bens industriais	Transporte	Serviços de apoio e armazenagem	Balcão Organizado
+Invepar	PN	IVPR4B	Atividades auxiliares ao transporte rodoviário	Bens industriais	Transporte	Serviços de apoio e armazenagem	Balcão Organizado
+Invest Bemge	ON	FIGE3	Administração de empresas e empreendimentos	Outros	Outros	Outros	Tradicional
+Invest Bemge	PN	FIGE4	Administração de empresas e empreendimentos	Outros	Outros	Outros	Tradicional
+Iochp-Maxion	ON	MYPK3	Indústria de autopeças	Consumo cíclico	Automóveis e motocicletas	Automóveis e motocicletas	Novo Mercado
+Irani	ON	RANI3	Indústria de papel, celulose e papelão	Materiais básicos	Madeira e papel	Papel e celulose	Novo Mercado
+Irbbrasil Re	ON	IRBR3	Seguradora e corretora de seguros	Financeiro	Previdência e seguros	Seguradoras	Novo Mercado
+Itausa	ON	ITSA3	Administração de empresas e empreendimentos	Financeiro	Intermediários financeiros	Bancos	Nível 1
+Itausa	PN	ITSA4	Administração de empresas e empreendimentos	Financeiro	Intermediários financeiros	Bancos	Nível 1
+ItauUnibanco	ON	ITUB3	Bancos	Financeiro	Intermediários financeiros	Bancos	Nível 1
+ItauUnibanco	PN	ITUB4	Bancos	Financeiro	Intermediários financeiros	Bancos	Nível 1
+J B Duarte	ON	JBDU3	Indústria de alimentos	Outros	Outros	Outros	Tradicional
+J B Duarte	PN	JBDU4	Indústria de alimentos	Outros	Outros	Outros	Tradicional
+Jallesmachad	ON	JALL3	Outras outras indústrias	Consumo não cíclico	Alimentos processados	Açúcar e álcool	Novo Mercado
+JBS	ON	JBSS3	Abatedouros	Consumo não cíclico	Alimentos processados	Carnes e derivados	Novo Mercado
+Jereissati	ON	JPSA3	Administração de empresas e empreendimentos	Financeiro	Exploração de imóveis	Exploração de imóveis	Tradicional
+JHSF Part	ON	JHSF3	Construção	Consumo cíclico	Construção civil	Incorporações	Novo Mercado
+Josapar	ON	JOPA3	Moinho de grãos	Consumo não cíclico	Alimentos processados	Alimentos diversos	Tradicional
+Josapar	PN	JOPA4	Moinho de grãos	Consumo não cíclico	Alimentos processados	Alimentos diversos	Tradicional
+JSL	ON	JSLG3	Transporte rodoviário	Bens industriais	Transporte	Transporte rodoviário	Novo Mercado
+Karsten	ON	CTKA3	Indústria de roupas de tecido	Consumo cíclico	Tecidos vestuário e calçados	Fios e tecidos	Tradicional
+Karsten	PN	CTKA4	Indústria de roupas de tecido	Consumo cíclico	Tecidos vestuário e calçados	Fios e tecidos	Tradicional
+Kepler Weber	ON	KEPL3	Indústria de estruturas metálicas	Bens industriais	Máquinas e equipamentos	Máq. e equip. industriais	Tradicional
+Klabin S/A	ON	KLBN3	Indústria de papel, celulose e papelão	Materiais básicos	Madeira e papel	Papel e celulose	Nível 2
+Klabin S/A	PN	KLBN4	Indústria de papel, celulose e papelão	Materiais básicos	Madeira e papel	Papel e celulose	Nível 2
+Klabin S/A	UNT N2	KLBN11	Indústria de papel, celulose e papelão	Materiais básicos	Madeira e papel	Papel e celulose	Nível 2
+Lavvi	ON	LAVV3	Construção de edifícios residenciais	Consumo cíclico	Construção civil	Incorporações	Novo Mercado
+Le Lis Blanc	ON	LLIS3	Tecelagens	Consumo cíclico	Comércio	Tecidos vestuário e calçados	Novo Mercado
+Lifemed	ON	LMED3	Indústria de equipamentos e materiais para uso médico	Saúde	Equipamentos	Equipamentos	Bovespa Mais
+Light S/A	ON	LIGT3	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Novo Mercado
+Linx	ON	LINX3	Editoras de software	Tecnologia da informação	Programas e serviços	Programas e serviços	Novo Mercado
+Litel	ON	LTEL3B	Mineração de metais	Materiais básicos	Mineração	Minerais metálicos	Balcão Organizado
+Litela	ON	LTLA3B	Mineração (exceto petróleo e gás)	Materiais básicos	Mineração	Minerais metálicos	Balcão Organizado
+Localiza	ON	RENT3	Locadora de automóveis	Consumo cíclico	Diversos	Aluguel de carros	Novo Mercado
+Locamerica	ON	LCAM3	Locadora de automóveis	Consumo cíclico	Diversos	Aluguel de carros	Novo Mercado
+Locaweb	ON	LWSA3	Editoras de software	Tecnologia da informação	Programas e serviços	Programas e serviços	Novo Mercado
+Log Com Prop	ON	LOGG3	Construção	Financeiro	Exploração de imóveis	Exploração de imóveis	Novo Mercado
+Log-In	ON	LOGN3	Atividades auxiliares ao transporte	Bens industriais	Transporte	Transporte hidroviário	Novo Mercado
+Lojas Americ	ON	LAME3	Loja de departamentos	Consumo cíclico	Comércio	Produtos diversos	Nível 1
+Lojas Americ	PN	LAME4	Loja de departamentos	Consumo cíclico	Comércio	Produtos diversos	Nível 1
+Lojas Marisa	ON	AMAR3	Loja de roupas	Consumo cíclico	Comércio	Tecidos vestuário e calçados	Novo Mercado
+Lojas Renner	ON	LREN3	Loja de roupas	Consumo cíclico	Comércio	Tecidos vestuário e calçados	Novo Mercado
+Lopes Brasil	ON	LPSB3	Atividades relacionadas a imóveis	Financeiro	Exploração de imóveis	Intermediação imobiliária	Novo Mercado
+Lupatech	ON	LUPA3	Forjarias e estamparias	Petróleo gás e biocombustíveis	Petróleo gás e biocombustíveis	Equipamentos e serviços	Novo Mercado
+M.Diasbranco	ON	MDIA3	Outras indústrias de alimentos	Consumo não cíclico	Alimentos processados	Alimentos diversos	Novo Mercado
+Maestroloc	ON	MSRO3	Locadora de automóveis	Consumo cíclico	Diversos	Aluguel de carros	Bovespa Mais
+Magaz Luiza	ON	MGLU3	Loja de departamentos	Consumo cíclico	Comércio	Eletrodomésticos	Novo Mercado
+Mangels Indl	ON	MGEL3	Forjarias e estamparias	Materiais básicos	Siderurgia e metalurgia	Artefatos de ferro e aço	Tradicional
+Mangels Indl	PN	MGEL4	Forjarias e estamparias	Materiais básicos	Siderurgia e metalurgia	Artefatos de ferro e aço	Tradicional
+Marcopolo	ON	POMO3	Indústria de carrocerias e trailers	Bens industriais	Material de transporte	Material rodoviário	Nível 2
+Marcopolo	PN	POMO4	Indústria de carrocerias e trailers	Bens industriais	Material de transporte	Material rodoviário	Nível 2
+Marfrig	ON	MRFG3	Abatedouros	Consumo não cíclico	Alimentos processados	Carnes e derivados	Novo Mercado
+Melhor SP	ON	MSPA3	Indústria de produtos de papel e papelão	Materiais básicos	Madeira e papel	Papel e celulose	Tradicional
+Melhor SP	PN	MSPA4	Indústria de produtos de papel e papelão	Materiais básicos	Madeira e papel	Papel e celulose	Tradicional
+Meliuz	ON	CASH3	Outros serviços de Informação	Tecnologia da informação	Programas e serviços	Programas e serviços	Novo Mercado
+Melnick	ON	MELK3	Construção de edifícios residenciais	Consumo cíclico	Construção civil	Incorporações	Novo Mercado
+Menezes Cort	ON	MNZC3B	Outras atividades auxiliares ao transporte	Financeiro	Exploração de imóveis	Exploração de imóveis	Balcão Organizado
+Merc Brasil	ON	BMEB3	Bancos	Financeiro	Intermediários financeiros	Bancos	Nível 1
+Merc Brasil	PN	BMEB4	Bancos	Financeiro	Intermediários financeiros	Bancos	Nível 1
+Merc Financ	ON	MERC3	Bancos	Financeiro	Intermediários financeiros	Soc. crédito e financiamento	Tradicional
+Merc Financ	PN	MERC4	Bancos	Financeiro	Intermediários financeiros	Soc. crédito e financiamento	Tradicional
+Merc Invest	ON	BMIN3	Bancos	Financeiro	Intermediários financeiros	Bancos	Tradicional
+Merc Invest	PN	BMIN4	Bancos	Financeiro	Intermediários financeiros	Bancos	Tradicional
+Metal Iguacu	ON	MTIG3	Outras indústrias de produtos de metal	Materiais básicos	Embalagens	Embalagens	Tradicional
+Metal Iguacu	PN	MTIG4	Outras indústrias de produtos de metal	Materiais básicos	Embalagens	Embalagens	Tradicional
+Metal Leve	ON	LEVE3	Indústria de autopeças	Consumo cíclico	Automóveis e motocicletas	Automóveis e motocicletas	Novo Mercado
+Metalfrio	ON	FRIO3	Indústria de equipamentos de refrigeração	Bens industriais	Máquinas e equipamentos	Máq. e equip. industriais	Novo Mercado
+Metisa	ON	MTSA3	Outras indústrias de produtos de metal	Bens industriais	Máquinas e equipamentos	Máq. e equip. construção e agrícolas	Tradicional
+Metisa	PN	MTSA4	Outras indústrias de produtos de metal	Bens industriais	Máquinas e equipamentos	Máq. e equip. construção e agrícolas	Tradicional
+Mills	ON	MILS3	Serviços de engenharia e arquitetura	Bens industriais	Construção e engenharia	Serviços diversos	Novo Mercado
+Minasmaquinas	ON	MMAQ3	Concessionárias de outros veículos motorizados	Bens industriais	Comércio	Material de transporte	Tradicional
+Minasmaquinas	PN	MMAQ4	Concessionárias de outros veículos motorizados	Bens industriais	Comércio	Material de transporte	Tradicional
+Minerva	ON	BEEF3	Abatedouros	Consumo não cíclico	Alimentos processados	Carnes e derivados	Novo Mercado
+Minupar	ON	MNPR3	Abatedouros	Consumo não cíclico	Alimentos processados	Carnes e derivados	Tradicional
+Mitre	ON	MTRE3	Construção de edifícios residenciais	Consumo cíclico	Construção civil	Incorporações	Novo Mercado
+MMX Miner	ON	MMXM3	Mineração de metais	Materiais básicos	Mineração	Minerais metálicos	Novo Mercado
+Mobly	ON	MBLY3	Vendas por correio ou meio eletrônico	Tecnologia da informação	Programas e serviços	Programas e serviços	Novo Mercado
+Mont Aranha	ON	MOAR3	Administração de empresas e empreendimentos	Financeiro	Holdings diversificadas	Holdings diversificadas	Tradicional
+Mosaico SA	ON	MOSI3	Vendas por correio ou meio eletrônico	Tecnologia da informação	Programas e serviços	Programas e serviços	Novo Mercado
+Moura Dubeux	ON	MDNE3	Construção de edifícios residenciais	Consumo cíclico	Construção civil	Incorporações	Novo Mercado
+Movida	ON	MOVI3	Locadora de automóveis	Consumo cíclico	Diversos	Aluguel de carros	Novo Mercado
+Mrs Logist	ON	MRSA3B	Transporte ferroviário	Bens industriais	Transporte	Transporte ferroviário	Balcão Organizado
+Mrs Logist	PNA	MRSA5B	Transporte ferroviário	Bens industriais	Transporte	Transporte ferroviário	Balcão Organizado
+Mrs Logist	PNB	MRSA6B	Transporte ferroviário	Bens industriais	Transporte	Transporte ferroviário	Balcão Organizado
+MRV	ON	MRVE3	Construção de edifícios residenciais	Consumo cíclico	Construção civil	Incorporações	Novo Mercado
+Multiplan	ON	MULT3	Locadora de imóveis	Financeiro	Exploração de imóveis	Exploração de imóveis	Nível 2
+Mundial	ON	MNDL3	Indústria de ferragens	Consumo cíclico	Tecidos vestuário e calçados	Acessórios	Tradicional
+Neoenergia	ON	NEOE3	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Novo Mercado
+Neogrid	ON	NGRD3	Editoras de software	Tecnologia da informação	Programas e serviços	Programas e serviços	Novo Mercado
+Nord Brasil	ON	BNBR3	Bancos	Financeiro	Intermediários financeiros	Bancos	Tradicional
+Nordon Met	ON	NORD3	Indústria de outros tipos de máquinas	Bens industriais	Máquinas e equipamentos	Máq. e equip. industriais	Tradicional
+Nortcquimica	ON	NRTQ3	Indústria de remédios	Saúde	Medicamentos e outros produtos	Medicamentos e outros produtos	Bovespa Mais
+Nutriplant	ON	NUTR3	Indústria de fertilizantes e pesticidas	Materiais básicos	Químicos	Fertilizantes e defensivos	Bovespa Mais
+Oceanpact	ON	OPCT3	Mineração, exploração de pedreiras e extração de petróleo e gás	Petróleo gás e biocombustíveis	Petróleo gás e biocombustíveis	Equipamentos e serviços	Novo Mercado
+Oderich	ON	ODER3	Indústria de frutas e vegetais em conserva e comidas especiais	Consumo não cíclico	Alimentos processados	Alimentos diversos	Tradicional
+Oderich	PN	ODER4	Indústria de frutas e vegetais em conserva e comidas especiais	Consumo não cíclico	Alimentos processados	Alimentos diversos	Tradicional
+Odontoprev	ON	ODPV3	Consultório odontológico	Saúde	Serviços médico-hospitalares análises e diagnósticos	Serviços médico-hospitalares análises e diagnósticos	Novo Mercado
+Oi	ON	OIBR3	Telecomunicações	Comunicações	Telecomunicações	Telecomunicações	Nível 1
+Oi	PN	OIBR4	Telecomunicações	Comunicações	Telecomunicações	Telecomunicações	Nível 1
+Omega Ger	ON	OMGE3	Administração de empresas e empreendimentos	Utilidade pública	Energia elétrica	Energia elétrica	Novo Mercado
+Opport Energ	ON	OPHE3B	Administração de empresas e empreendimentos	Outros	Outros	Outros	Balcão Organizado
+Orizon	ON	ORVR3	Empresa de eletricidade, gás e água	Utilidade pública	Água e saneamento	Água e saneamento	Novo Mercado
+OSX Brasil	ON	OSXB3	Estaleiros	Petróleo gás e biocombustíveis	Petróleo gás e biocombustíveis	Equipamentos e serviços	Novo Mercado
+Ourofino S/A	ON	OFSA3	Indústria de remédios	Saúde	Medicamentos e outros produtos	Medicamentos e outros produtos	Novo Mercado
+P.Acucar-Cbd	ON	PCAR3	Loja de departamentos	Consumo não cíclico	Comércio e distribuição	Alimentos	Novo Mercado
+Padtec	ON	PDTC3	Editoras de software	Financeiro	Serviços financeiros diversos	Serviços financeiros diversos	Tradicional
+Pague Menos	ON	PGMN3	Loja de mercadorias variadas	Saúde	Comércio e distribuição	Medicamentos e outros produtos	Novo Mercado
+Panatlantica	ON	PATI3	Transformação de aço em produtos de aço	Materiais básicos	Siderurgia e metalurgia	Artefatos de ferro e aço	Tradicional
+Panatlantica	PN	PATI4	Transformação de aço em produtos de aço	Materiais básicos	Siderurgia e metalurgia	Artefatos de ferro e aço	Tradicional
+Par Al Bahia	ON	PEAB3	Administração de empresas e empreendimentos	Financeiro	Holdings diversificadas	Holdings diversificadas	Tradicional
+Par Al Bahia	PN	PEAB4	Administração de empresas e empreendimentos	Financeiro	Holdings diversificadas	Holdings diversificadas	Tradicional
+Paranapanema	ON	PMAM3	Outras indústrias de produtos de metal	Materiais básicos	Siderurgia e metalurgia	Artefatos de cobre	Novo Mercado
+PDG Realt	ON	PDGR3	Construção de edifícios residenciais	Consumo cíclico	Construção civil	Incorporações	Novo Mercado
+Pet Manguinh	ON	RPMG3	Indústria de produtos de petróleo e carvão	Petróleo gás e biocombustíveis	Petróleo gás e biocombustíveis	Exploração refino e distribuição	Tradicional
+Petrobras	ON	PETR3	Extração de petróleo e gás	Petróleo gás e biocombustíveis	Petróleo gás e biocombustíveis	Exploração refino e distribuição	Nível 2
+Petrobras	PN	PETR4	Extração de petróleo e gás	Petróleo gás e biocombustíveis	Petróleo gás e biocombustíveis	Exploração refino e distribuição	Nível 2
+Petrobras BR	ON	BRDT3	Comércio atacadista de petróleo e produtos de petróleo	Petróleo gás e biocombustíveis	Petróleo gás e biocombustíveis	Exploração refino e distribuição	Novo Mercado
+Petrorio	ON	PRIO3	Extração de petróleo e gás	Petróleo gás e biocombustíveis	Petróleo gás e biocombustíveis	Exploração refino e distribuição	Novo Mercado
+Pettenati	ON	PTNT3	Tecelagens	Consumo cíclico	Tecidos vestuário e calçados	Fios e tecidos	Tradicional
+Pettenati	PN	PTNT4	Tecelagens	Consumo cíclico	Tecidos vestuário e calçados	Fios e tecidos	Tradicional
+Petz	ON	PETZ3	Comércio atacadista de bens não duráveis variados	Consumo cíclico	Comércio	Produtos diversos	Novo Mercado
+Pine	ON	PINE3	Bancos	Financeiro	Intermediários financeiros	Bancos	Nível 2
+Pine	PN	PINE4	Bancos	Financeiro	Intermediários financeiros	Bancos	Nível 2
+Planoeplano	ON	PLPL3	Construção de edifícios residenciais	Consumo cíclico	Construção civil	Incorporações	Novo Mercado
+Plascar Part	ON	PLAS3	Indústria de autopeças	Consumo cíclico	Automóveis e motocicletas	Automóveis e motocicletas	Tradicional
+Polpar	ON	PPAR3	Administração de empresas e empreendimentos	Outros	Outros	Outros	Tradicional
+Pomifrutas	ON	FRTA3	Cultivo de frutas e nozes	Consumo não cíclico	Agropecuária	Agricultura	Novo Mercado
+Porto Seguro	ON	PSSA3	Seguradora	Financeiro	Previdência e seguros	Seguradoras	Novo Mercado
+Portobello	ON	PTBL3	Indústria de produtos de cerâmica e refratários	Bens industriais	Construção e engenharia	Produtos para construção	Novo Mercado
+Positivo Tec	ON	POSI3	Indústria de computadores e periféricos	Tecnologia da informação	Computadores e equipamentos	Computadores e equipamentos	Novo Mercado
+Ppla	UNT	PPLA11	Instituição de intermediação de crédito e atividades relacionadas	Financeiro	Serviços financeiros diversos	Gestão de recursos e investimentos	Tradicional
+Pratica	ON	PTCA3	Indústria de eletrodomésticos	Bens industriais	Máquinas e equipamentos	Máq. e equip. industriais	Bovespa Mais Nível 2
+Pratica	PN Resg	PTCA11	Indústria de eletrodomésticos	Bens industriais	Máquinas e equipamentos	Máq. e equip. industriais	Bovespa Mais Nível 2
+Priner	ON	PRNR3	Construção de edifícios residenciais	Bens industriais	Serviços diversos	Serviços diversos	Novo Mercado
+Profarma	ON	PFRM3	Comércio atacadista de remédios	Saúde	Comércio e distribuição	Medicamentos e outros produtos	Novo Mercado
+Prompt	ON	PRPT3B	Administração de empresas e empreendimentos	Outros	Outros	Outros	Balcão Organizado
+Qualicorp	ON	QUAL3	Outros serviços ambulatoriais de saúde	Saúde	Serviços médico-hospitalares análises e diagnósticos	Serviços médico-hospitalares análises e diagnósticos	Novo Mercado
+Quality Soft	ON	QUSW3	Editoras de software	Tecnologia da informação	Programas e serviços	Programas e serviços	Bovespa Mais
+Quero-Quero	ON	LJQQ3	Outras lojas de mercadorias variadas	Consumo cíclico	Comércio	Produtos diversos	Novo Mercado
+RaiaDrogasil	ON	RADL3	Loja de artigos para saúde e cuidados pessoais	Saúde	Comércio e distribuição	Medicamentos e outros produtos	Novo Mercado
+Randon Part	ON	RAPT3	Indústria de carrocerias e trailers	Bens industriais	Material de transporte	Material rodoviário	Nível 1
+Randon Part	PN	RAPT4	Indústria de carrocerias e trailers	Bens industriais	Material de transporte	Material rodoviário	Nível 1
+Recrusul	ON	RCSL3	Indústria de carrocerias e trailers	Bens industriais	Material de transporte	Material rodoviário	Tradicional
+Recrusul	PN	RCSL4	Indústria de carrocerias e trailers	Bens industriais	Material de transporte	Material rodoviário	Tradicional
+Rede D Or	ON	RDOR3	Laboratório de exames médicos	Saúde	Serviços médico-hospitalares análises e diagnósticos	Serviços médico-hospitalares análises e diagnósticos	Novo Mercado
+Rede Energia	ON	REDE3	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Tradicional
+Renova	ON	RNEW3	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Nível 2
+Renova	PN	RNEW4	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Nível 2
+Renova	UNT N2	RNEW11	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Nível 2
+Riosulense	ON	RSUL3	Indústria de autopeças	Bens industriais	Material de transporte	Material rodoviário	Tradicional
+Riosulense	PN	RSUL4	Indústria de autopeças	Bens industriais	Material de transporte	Material rodoviário	Tradicional
+Rni	ON	RDNI3	Construção de edifícios residenciais	Consumo cíclico	Construção civil	Incorporações	Novo Mercado
+Rossi Resid	ON	RSID3	Construção de edifícios residenciais	Consumo cíclico	Construção civil	Incorporações	Novo Mercado
+Rumo S.A.	ON	RAIL3	Transporte ferroviário	Bens industriais	Transporte	Transporte ferroviário	Novo Mercado
+Sabesp	ON	SBSP3	Água, esgoto e outros sistemas	Utilidade pública	Água e saneamento	Água e saneamento	Novo Mercado
+Sanepar	ON	SAPR3	Água, esgoto e outros sistemas	Utilidade pública	Água e saneamento	Água e saneamento	Nível 2
+Sanepar	PN	SAPR4	Água, esgoto e outros sistemas	Utilidade pública	Água e saneamento	Água e saneamento	Nível 2
+Sanepar	UNT N2	SAPR11	Água, esgoto e outros sistemas	Utilidade pública	Água e saneamento	Água e saneamento	Nível 2
+Sansuy	ON	SNSY3	Indústria de produtos de plástico	Materiais básicos	Materiais diversos	Materiais diversos	Tradicional
+Sansuy	PNA	SNSY5	Indústria de produtos de plástico	Materiais básicos	Materiais diversos	Materiais diversos	Tradicional
+Sansuy	PNB	SNSY6	Indústria de produtos de plástico	Materiais básicos	Materiais diversos	Materiais diversos	Tradicional
+Santander BR	ON	SANB3	Bancos	Financeiro	Intermediários financeiros	Bancos	Tradicional
+Santander BR	PN	SANB4	Bancos	Financeiro	Intermediários financeiros	Bancos	Tradicional
+Santander BR	UNT	SANB11	Bancos	Financeiro	Intermediários financeiros	Bancos	Tradicional
+Santanense	ON	CTSA3	Tecelagens	Consumo cíclico	Tecidos vestuário e calçados	Fios e tecidos	Tradicional
+Santanense	PN	CTSA4	Tecelagens	Consumo cíclico	Tecidos vestuário e calçados	Fios e tecidos	Tradicional
+Santanense	PND	CTSA8	Tecelagens	Consumo cíclico	Tecidos vestuário e calçados	Fios e tecidos	Tradicional
+Santos Brp	ON	STBP3	Atividades auxiliares ao transporte aquático	Bens industriais	Transporte	Serviços de apoio e armazenagem	Novo Mercado
+Sao Carlos	ON	SCAR3	Locadora de imóveis	Financeiro	Exploração de imóveis	Exploração de imóveis	Novo Mercado
+Sao Martinho	ON	SMTO3	Outras outras indústrias	Consumo não cíclico	Alimentos processados	Açúcar e álcool	Novo Mercado
+Saraiva Livr	ON	SLED3	Editoras de jornais, revistas, livros e similares	Consumo cíclico	Comércio	Produtos diversos	Nível 2
+Saraiva Livr	PN	SLED4	Editoras de jornais, revistas, livros e similares	Consumo cíclico	Comércio	Produtos diversos	Nível 2
+Schulz	ON	SHUL3	Indústria de autopeças	Bens industriais	Máquinas e equipamentos	Motores compressores e outros	Tradicional
+Schulz	PN	SHUL4	Indústria de autopeças	Bens industriais	Máquinas e equipamentos	Motores compressores e outros	Tradicional
+Seg Al Bahia	ON	CSAB3	Seguradora	Financeiro	Previdência e seguros	Seguradoras	Tradicional
+Seg Al Bahia	PN	CSAB4	Seguradora	Financeiro	Previdência e seguros	Seguradoras	Tradicional
+Sequoia Log	ON	SEQL3	Transporte rodoviário	Bens industriais	Serviços diversos	Serviços diversos	Novo Mercado
+Ser Educa	ON	SEER3	Escola de ensino superior	Consumo cíclico	Diversos	Serviços educacionais	Novo Mercado
+Sid Nacional	ON	CSNA3	Transformação de aço em produtos de aço	Materiais básicos	Siderurgia e metalurgia	Siderurgia	Tradicional
+Simpar	ON	SIMH3	Transporte rodoviário	Financeiro	Holdings diversificadas	Holdings diversificadas	Novo Mercado
+Sinqia	ON	SQIA3	Editoras de software	Tecnologia da informação	Programas e serviços	Programas e serviços	Novo Mercado
+SLC Agricola	ON	SLCE3	Agricultura	Consumo não cíclico	Agropecuária	Agricultura	Novo Mercado
+Smart Fit	ON	SMFT3	Outras indústrias da recreação	Consumo cíclico	Viagens e lazer	Atividades esportivas	Bovespa Mais Nível 2
+Smiles	ON	SMLS3	Outros serviços de apoio	Consumo cíclico	Diversos	Programas de fidelização	Novo Mercado
+Sondotecnica	ON	SOND3	Consultoria administrativa, científica e técnica	Bens industriais	Construção e engenharia	Engenharia consultiva	Tradicional
+Sondotecnica	PNA	SOND5	Consultoria administrativa, científica e técnica	Bens industriais	Construção e engenharia	Engenharia consultiva	Tradicional
+Sondotecnica	PNB	SOND6	Consultoria administrativa, científica e técnica	Bens industriais	Construção e engenharia	Engenharia consultiva	Tradicional
+Springs	ON	SGPS3	Indústria de roupas de tecido	Consumo cíclico	Tecidos vestuário e calçados	Fios e tecidos	Novo Mercado
+SPturis	ON	AHEB3	Outros serviços de apoio	Consumo cíclico	Viagens e lazer	Produção de eventos e shows	Tradicional
+SPturis	PNA	AHEB5	Outros serviços de apoio	Consumo cíclico	Viagens e lazer	Produção de eventos e shows	Tradicional
+SPturis	PNB	AHEB6	Outros serviços de apoio	Consumo cíclico	Viagens e lazer	Produção de eventos e shows	Tradicional
+Stara	ON	STTR3	Industria de máquinas agrícolas, de construção e mineração	Bens industriais	Máquinas e equipamentos	Máq. e equip. construção e agrícolas	Bovespa Mais
+Statkraft	ON	STKF3	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Tradicional
+Sudeste	ON	OPSE3B	Administração de empresas e empreendimentos	Outros	Outros	Outros	Balcão Organizado
+Sul 116 Part	ON	OPTS3B	Telecomunicações	Outros	Outros	Outros	Balcão Organizado
+Sul America	ON	SULA3	Seguradora	Financeiro	Previdência e seguros	Seguradoras	Nível 2
+Sul America	PN	SULA4	Seguradora	Financeiro	Previdência e seguros	Seguradoras	Nível 2
+Sul America	UNT N2	SULA11	Seguradora	Financeiro	Previdência e seguros	Seguradoras	Nível 2
+Suzano Hold	ON	NEMO3	Administração de empresas e empreendimentos	Materiais básicos	Madeira e papel	Papel e celulose	Tradicional
+Suzano Hold	PNA	NEMO5	Administração de empresas e empreendimentos	Materiais básicos	Madeira e papel	Papel e celulose	Tradicional
+Suzano Hold	PNB	NEMO6	Administração de empresas e empreendimentos	Materiais básicos	Madeira e papel	Papel e celulose	Tradicional
+Suzano S.A.	ON	SUZB3	Indústria de papel, celulose e papelão	Materiais básicos	Madeira e papel	Papel e celulose	Novo Mercado
+Taesa	ON	TAEE3	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Nível 2
+Taesa	PN	TAEE4	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Nível 2
+Taesa	UNT N2	TAEE11	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Nível 2
+Taurus Armas	ON	TASA3	Outras indústrias de produtos de metal	Bens industriais	Máquinas e equipamentos	Armas e munições	Nível 2
+Taurus Armas	PN	TASA4	Outras indústrias de produtos de metal	Bens industriais	Máquinas e equipamentos	Armas e munições	Nível 2
+Technos	ON	TECN3	Outras indústrias	Consumo cíclico	Tecidos vestuário e calçados	Acessórios	Novo Mercado
+Tecnisa	ON	TCSA3	Construção de edifícios residenciais	Consumo cíclico	Construção civil	Incorporações	Novo Mercado
+Tecnosolo	ON	TCNO3	Consultoria administrativa, científica e técnica	Bens industriais	Construção e engenharia	Engenharia consultiva	Tradicional
+Tecnosolo	PN	TCNO4	Consultoria administrativa, científica e técnica	Bens industriais	Construção e engenharia	Engenharia consultiva	Tradicional
+Tegma	ON	TGMA3	Atividades auxiliares ao transporte	Bens industriais	Transporte	Transporte rodoviário	Novo Mercado
+Teka	ON	TEKA3	Indústria de roupas de tecido	Consumo cíclico	Tecidos vestuário e calçados	Fios e tecidos	Tradicional
+Teka	PN	TEKA4	Indústria de roupas de tecido	Consumo cíclico	Tecidos vestuário e calçados	Fios e tecidos	Tradicional
+Tekno	ON	TKNO3	Outras indústrias de produtos de metal	Materiais básicos	Siderurgia e metalurgia	Artefatos de ferro e aço	Tradicional
+Tekno	PN	TKNO4	Outras indústrias de produtos de metal	Materiais básicos	Siderurgia e metalurgia	Artefatos de ferro e aço	Tradicional
+Telebras	ON	TELB3	Telecomunicações	Comunicações	Telecomunicações	Telecomunicações	Tradicional
+Telebras	PN	TELB4	Telecomunicações	Comunicações	Telecomunicações	Telecomunicações	Tradicional
+Telef Brasil	ON	VIVT3	Telecomunicações	Comunicações	Telecomunicações	Telecomunicações	Tradicional
+Tenda	ON	TEND3	Construção de edifícios residenciais	Consumo cíclico	Construção civil	Incorporações	Novo Mercado
+Terra Santa	ON	TESA3	Outras outras indústrias	Consumo não cíclico	Agropecuária	Agricultura	Novo Mercado
+Tex Renaux	ON	TXRX3	Tecelagens	Consumo cíclico	Tecidos vestuário e calçados	Fios e tecidos	Tradicional
+Tex Renaux	PN	TXRX4	Tecelagens	Consumo cíclico	Tecidos vestuário e calçados	Fios e tecidos	Tradicional
+Tim	ON	TIMS3	Telecomunicações	Comunicações	Telecomunicações	Telecomunicações	Novo Mercado
+Time For Fun	ON	SHOW3	Apresentações artísticas	Consumo cíclico	Viagens e lazer	Produção de eventos e shows	Novo Mercado
+Totvs	ON	TOTS3	Editoras de software	Tecnologia da informação	Programas e serviços	Programas e serviços	Novo Mercado
+Track Field	PN	TFCO4	Loja de roupas	Consumo cíclico	Tecidos vestuário e calçados	Vestuário	Nível 2
+Tran Paulist	ON	TRPL3	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Nível 1
+Tran Paulist	PN	TRPL4	Geração, transmissão e distribuição de energia elétrica	Utilidade pública	Energia elétrica	Energia elétrica	Nível 1
+Trevisa	ON	LUXM3	Administração de empresas e empreendimentos	Bens industriais	Transporte	Transporte hidroviário	Tradicional
+Trevisa	PN	LUXM4	Administração de empresas e empreendimentos	Bens industriais	Transporte	Transporte hidroviário	Tradicional
+Trisul	ON	TRIS3	Construção de edifícios residenciais	Consumo cíclico	Construção civil	Incorporações	Novo Mercado
+Triunfo Part	ON	TPIS3	Atividades auxiliares ao transporte rodoviário	Bens industriais	Transporte	Exploração de rodovias	Novo Mercado
+Tupy	ON	TUPY3	Indústria de autopeças	Bens industriais	Material de transporte	Material rodoviário	Novo Mercado
+Ultrapar	ON	UGPA3	Comércio atacadista de petróleo e produtos de petróleo	Petróleo gás e biocombustíveis	Petróleo gás e biocombustíveis	Exploração refino e distribuição	Novo Mercado
+Unicasa	ON	UCAS3	Indústria de móveis e afins	Consumo cíclico	Utilidades domésticas	Móveis	Novo Mercado
+Unipar	ON	UNIP3	Indústria química	Materiais básicos	Químicos	Químicos diversos	Tradicional
+Unipar	PNA	UNIP5	Indústria química	Materiais básicos	Químicos	Químicos diversos	Tradicional
+Unipar	PNB	UNIP6	Indústria química	Materiais básicos	Químicos	Químicos diversos	Tradicional
+Uptick	ON	UPKP3B	Empresa de eletricidade, gás e água	Utilidade pública	Energia elétrica	Energia elétrica	Balcão Organizado
+Usiminas	ON	USIM3	Transformação de aço em produtos de aço	Materiais básicos	Siderurgia e metalurgia	Siderurgia	Nível 1
+Usiminas	PNA	USIM5	Transformação de aço em produtos de aço	Materiais básicos	Siderurgia e metalurgia	Siderurgia	Nível 1
+Usiminas	PNB	USIM6	Transformação de aço em produtos de aço	Materiais básicos	Siderurgia e metalurgia	Siderurgia	Nível 1
+Vale	ON	VALE3	Mineração de metais	Materiais básicos	Mineração	Minerais metálicos	Novo Mercado
+Valid	ON	VLID3	Impressão e atividades auxiliares	Bens industriais	Serviços diversos	Serviços diversos	Novo Mercado
+Vamos	ON	VAMO3	Serviços de locação e leasing	Consumo cíclico	Diversos	Aluguel de carros	Novo Mercado
+Viavarejo	ON	VVAR3	Loja de departamentos	Consumo cíclico	Comércio	Eletrodomésticos	Novo Mercado
+Vivara S.A.	ON	VIVA3	Loja de jóias, malas e artigos de couro	Consumo cíclico	Tecidos vestuário e calçados	Acessórios	Novo Mercado
+Viver	ON	VIVR3	Construção de edifícios residenciais	Consumo cíclico	Construção civil	Incorporações	Novo Mercado
+Vulcabras	ON	VULC3	Indústria de calçados	Consumo cíclico	Tecidos vestuário e calçados	Calçados	Novo Mercado
+Weg	ON	WEGE3	Indústria de motores, turbinas e transmissores de energia	Bens industriais	Máquinas e equipamentos	Motores compressores e outros	Novo Mercado
+Westwing	ON	WEST3	Comércio atacadista de bens duráveis	Tecnologia da informação	Programas e serviços	Programas e serviços	Novo Mercado
+Wetzel S/A	ON	MWET3	Indústria de autopeças	Bens industriais	Material de transporte	Material rodoviário	Tradicional
+Wetzel S/A	PN	MWET4	Indústria de autopeças	Bens industriais	Material de transporte	Material rodoviário	Tradicional
+Whirlpool	ON	WHRL3	Indústria de eletrodomésticos	Consumo cíclico	Utilidades domésticas	Eletrodomésticos	Tradicional
+Whirlpool	PN	WHRL4	Indústria de eletrodomésticos	Consumo cíclico	Utilidades domésticas	Eletrodomésticos	Tradicional
+Wilson Sons	ON	WSON33	Atividades auxiliares ao transporte aquático	Bens industriais	Transporte	Serviços de apoio e armazenagem	BDR nível 3
+Wiz S.A	ON	WIZS3	Corretora de seguros	Financeiro	Previdência e seguros	Corretoras de seguros	Novo Mercado
+Wlm Ind Com	ON	WLMM3	Concessionárias de outros veículos motorizados	Bens industriais	Comércio	Material de transporte	Tradicional
+Wlm Ind Com	PN	WLMM4	Concessionárias de outros veículos motorizados	Bens industriais	Comércio	Material de transporte	Tradicional
+Yduqs Part	ON	YDUQ3	Escola de ensino superior	Consumo cíclico	Diversos	Serviços educacionais	Novo Mercado
