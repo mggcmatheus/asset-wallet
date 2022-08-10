@@ -91,8 +91,8 @@ def update_ticker(request, code: str, payload: TickerIn):
 
 # Price Ticker
 
-@api.get("/ticker/quote_ticker/{code}/{dt}", response=TickerOut, tags=["ticker-quote"])
-def get_quote_ticker_for_date(request, code: str, dt: date):
+@api.get("/ticker/quote_ticker/{code}", tags=["ticker-quote"])
+def get_quote_ticker_for_date(request, code: str, data: date):
     p = PriceTicker()
-    quote = p.get_price_ticker(code.upper(), date)
+    quote = p.get_price_ticker(code.upper(), data)
     return quote
