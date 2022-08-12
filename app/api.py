@@ -1,14 +1,21 @@
 from typing import List
 from ninja import NinjaAPI
+from ninja.security import HttpBearer
 from datetime import date
 from django.shortcuts import get_list_or_404, get_object_or_404
 
 from app.models import Category, Ticker
 from app.schemas import *
-
 from app.mongodb import PriceTicker
 
-api = NinjaAPI()
+
+class GlobalAuth(HttpBearer):
+    def authenticate(self, request, token):
+        if token == "supersecret":
+            return token
+
+
+api = NinjaAPI(auth=GlobalAuth())
 
 
 # Category
