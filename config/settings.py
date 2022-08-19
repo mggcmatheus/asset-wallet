@@ -30,7 +30,7 @@ DJANGO_APPS = [
 ]
 
 LOCAL_APPS = [
-    'app'
+    'registration'
 ]
 
 THIRD_APPS = []
