@@ -1,21 +1,23 @@
 import django
 import os
 import pandas as pd
-from app.models import Category, Ticker
+from registration.models import Category, Ticker
 
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'config.settings')
 django.setup()
 
 
 def run_category():
-    print('Executando o Starter')
+    print('Inserindo Categorias')
     Category(name='Ação').save()
-    Category(name='FII').save()
+    Category(name='Fundo Imobiliário').save()
     Category(name='ETF').save()
     Category(name='Indice').save()
 
 
 def run():
+    run_category()
+
     print('Inserindo ações')
 
     df = pd.read_csv("data/ações.txt", sep="	", header=0)
