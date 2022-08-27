@@ -14,17 +14,19 @@ class CategoryOut(Schema):
 class TickerIn(Schema):
     name: str
     code: str
+    price: float = 0.00
     category_id: int
 
 
 class TickerUpdate(Schema):
-    name: str
+    price = float
 
 
 class TickerOut(Schema):
     id: str
     name: str
     code: str
+    price: float
     category_id: int
     is_active: bool
 

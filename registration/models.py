@@ -18,6 +18,7 @@ class Ticker(models.Model):
     id = models.AutoField(primary_key=True)
     name = models.CharField(max_length=100)
     code = models.CharField(max_length=10)
+    price = models.DecimalField(decimal_places=2, max_digits=15, default=0.00)
     category = models.ForeignKey(Category, on_delete=models.PROTECT)
     is_active = models.BooleanField(default=True)
 
