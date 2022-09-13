@@ -2,7 +2,7 @@ from typing import List
 from ninja import NinjaAPI
 from django.shortcuts import get_list_or_404, get_object_or_404
 
-from .models import Category, Ticker, AssetWallet
+from .models import Category, Ticker, AssetWallet, AssetsInWallet
 from .schemas import *
 
 api = NinjaAPI()
@@ -119,3 +119,11 @@ def get_asset_wallet(request, wallet_id: int):
 def create_asset_wallet(request, payload: AssetWalletIn):
     asset_wallet = AssetWallet.objects.create(**payload.dict())
     return {"id": asset_wallet.id}
+
+
+# AssetsInWallet
+
+@api.post("/assets-in-wallet", tags=["Ativos na carteira"], description='Insere ativo a uma carteira')
+def create_asset_wallet(request, payload: AssetsInWalletIn):
+    asset_in_wallet = AssetsInWallet.objects.create(**payload.dict())
+    return {"id": asset_in_wallet.id}

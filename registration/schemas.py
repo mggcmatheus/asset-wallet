@@ -23,7 +23,7 @@ class TickerUpdate(Schema):
 
 
 class TickerOut(Schema):
-    id: str
+    id: int
     name: str
     code: str
     price: float
@@ -36,6 +36,11 @@ class AssetWalletIn(Schema):
 
 
 class AssetWalletOut(Schema):
-    id: str
+    id: int
     name: str
     is_active: bool
+
+
+class AssetsInWalletIn(Schema):
+    asset_wallet: AssetWalletIn
+    ticker: TickerIn
