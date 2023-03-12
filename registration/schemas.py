@@ -1,14 +1,16 @@
-from ninja import Schema
+from ninja import Schema, ModelSchema
+
+from registration.models import *
 
 
 class CategoryIn(Schema):
     name: str
 
 
-class CategoryOut(Schema):
-    id: int
-    name: str
-    is_active: bool
+class CategoryOut(ModelSchema):
+    class Config:
+        model = Category
+        model_fields = ['id', 'name', 'is_active']
 
 
 class TickerIn(Schema):
@@ -22,23 +24,20 @@ class TickerUpdate(Schema):
     price = float
 
 
-class TickerOut(Schema):
-    id: int
-    name: str
-    code: str
-    price: float
-    category_id: int
-    is_active: bool
+class TickerOut(ModelSchema):
+    class Config:
+        model = Ticker
+        model_fields = ['id', 'name', 'code', 'price', 'category', 'is_active']
 
 
 class AssetWalletIn(Schema):
     name: str
 
 
-class AssetWalletOut(Schema):
-    id: int
-    name: str
-    is_active: bool
+class AssetWalletOut(ModelSchema):
+    class Config:
+        model = Category
+        model_fields = ['id', 'name', 'is_active']
 
 
 class AssetsInWalletIn(Schema):

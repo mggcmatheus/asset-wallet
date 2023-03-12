@@ -65,7 +65,7 @@ def list_tickers(request):
 
 
 @router.get("/tickers/category/{category_id}", response=List[TickerOut], tags=["Ticker"],
-         description='Retorna todos os tickers filtrando por uma categoria')
+            description='Retorna todos os tickers filtrando por uma categoria')
 def list_tickers_for_category(request, category_id: int):
     qs = Ticker.objects.filter(category_id=category_id)
     return qs
@@ -102,14 +102,14 @@ def update_ticker(request, code: str, payload: TickerUpdate):
 # AssetWallet
 
 @router.get("/asset-wallet", response=List[AssetWalletOut], tags=["Carteira de ativos"],
-         description='Retorna todas carteiras de ativos')
+            description='Retorna todas carteiras de ativos')
 def list_asset_wallets(request):
     qs = get_list_or_404(AssetWallet)
     return qs
 
 
 @router.get("/asset-wallet/{wallet_id}", response=AssetWalletOut, tags=["Carteira de ativos"],
-         description='Retorna uma carteira de ativos especifica')
+            description='Retorna uma carteira de ativos especifica')
 def get_asset_wallet(request, wallet_id: int):
     asset_wallet = get_object_or_404(AssetWallet, id=wallet_id)
     return asset_wallet
