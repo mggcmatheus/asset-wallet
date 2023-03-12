@@ -67,7 +67,7 @@ $ python -m venv .venv
 $ .venv/Script/activate
 
 # Instale as dependências
-$ pip install -r requirements.txt
+$ pip install -r requirements2.txt
 
 # Crie as Migrations do Django
 $ python manage.py makemigrations
